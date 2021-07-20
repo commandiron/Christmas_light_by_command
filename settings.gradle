@@ -1,0 +1,2 @@
+rootProject.name = "Christmas_light_by_command"
+include ':app'
